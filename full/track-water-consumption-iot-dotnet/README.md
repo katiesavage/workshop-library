@@ -46,13 +46,11 @@ Have you ever wanted to track the amount of water you drink each day? Let’s bu
 
 ![Smart Water Bottle 1](solution/pictures/setup-1.jpg) ![Smart Water Bottle 2](solution/pictures/setup-2.jpg)
 
-## Milestone 1: Setup and connect your I<sup>2</sup>C IoT devices
-
-## Milestone 2: Connect your IoT devices to your PC
-
-## Milestone 3: Design the "smart water bottle"
-
-## Milestone 4: Write the code to detect your water consumption!
+## Workshop Milestones
+- Milestone 1: Setup and connect your I<sup>2</sup>C IoT devices
+- Milestone 2: Connect your IoT devices to your PC
+- Milestone 3: Design the "smart water bottle"
+- Milestone 4: Write the code to detect your water consumption!
    1. Read from the accelerometer and weight sensors
    2. Set up auto-detection to store the timestamp, weight, and acceleration anytime we drink, refill, or move our bottle
 
