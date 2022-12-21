@@ -23,6 +23,7 @@ In this workshop, we will discuss creating predictions using machine learning.
 ## Pre-Learning
 
 [Take this ML.NET Learning Path](https://aka.ms/TrainMLdotnet)
+*Optional* [Water Consumption Tracking Workshop](../track-water-consumption-iot-dotnet/README.md)
 
 ## Prerequisites
 *This workshop can be run locally or using GitHub Codespaces.*
