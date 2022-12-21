@@ -1,31 +1,26 @@
-
-# UBD: Understanding By Design
-
-The UBD technique of curriculum design was created by Jay McTighe and Grant Wiggins and outlined in their book, "[Understanding By Design](https://www.amazon.com/Understanding-Design-second-Grant-Wiggins/dp/B006NPF8D0/ref=sr_1_15?crid=26FTBZ6E9Q53K&keywords=understanding+by+design&qid=1636052567&sprefix=understanding+by+design%2Caps%2C94&sr=8-15)". UBD is a process of "backwards design" where the curriculum designer works through three stages, starting with the desired goals of the learning experience and moving backwards through assessments and then to the lesson design. It bears some similarities to TDD (test-driven development) processes in Engineering, where tests are to be written before the code. Use this template to outline your workshop's desired outcomes.
-
-## Workshop Title
+## Build a Mobile App to Track Water Consumption
 
 ## Workshop Source 
 
-List the workshop source from Microsoft Learn (usually a module)
+You can find the full workshop in the [.NET Conf Student Zone 2022 repository](https://github.com/microsoft/dotnetconf-studentzone/tree/main/Using%20.NET%20MAUI%20to%20Build%20a%20Mobile%20App).
 
 ## Stage 1: Desired Results 
 
-> List your established goals of the workshop experience here. These are the takeaways that you want students to have after completing the workshop.
-
 1. Students will be skilled at:
+   1. Creating a mobile app given an API that serves data
+   2. Displaying historical data in a mobile app
 
-1. Students will be able to independently use their learning to:
+2. Students will be able to independently use their learning to:
+   1. Create their own mobile applications
+   2. Integrate their applications with an API
 
 ## Stage 2: Evidence
-
-> List any evaluative criteria and Assessment Evidence. Students will demonstrate their understanding of the concepts by doing the following:
  
-1. Performance Tasks (these are tasks that a student can complete to demonstrate comprehension, such as a quiz or code challenge)
+1. Students will be able to evaluate their understanding through the proper functioning of their project. The project should be able to display historyical data and the user should be able to update this data through their app using the API.
 
 ## Stage 3: Learning Plan
 
-> Now you are ready to build out your lesson plan. Summarize the key learning events here by creating an outline of the milestones that you can lay out to structure the course.
-
-1. List the key learning events in the workshop - for a one-hour workshop, we recommend 5 milestones
-
+1. Milestone 1: Examine the scaffolded project including the Water Consumption API
+2. Milestone 2: Setup ViewModels for your code
+3. Milestone 3: Consume data from a Water Consumption API
+4. Milestone 4: Test your application to display your water consumption data and add more data
